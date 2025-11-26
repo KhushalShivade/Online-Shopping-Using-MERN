@@ -10,4 +10,3 @@ const MyConstants = {
 };
 module.exports = MyConstants;
 
-//mongodb+srv://tiendung8a6:C5QavQodd71CrZ0c@onlineshopping.7eavwgm.mongodb.net/?retryWrites=true&w=majority
